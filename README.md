@@ -12,6 +12,7 @@ A Streamlit-based AI assistant for managing your Gmail inbox using Langchain and
 - Create Gmail filters automatically
 - Interactive chat interface powered by Langchain agents
 - Supports Google Gemini and OpenAI models for AI responses
+- Unsubscribe newslaters, to avoid unwanted mails.
 
 ---
 

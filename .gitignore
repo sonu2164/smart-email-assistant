@@ -1,0 +1,7 @@
+./.gitignore
+./.git
+./.gitmodules
+token.json
+credentials.json
+.env
+
